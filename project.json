@@ -1,0 +1,22 @@
+{
+    "name": "AutoGLM Phone Agent",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "author": "lwt",
+    "description": "AI-powered phone automation using accessibility services",
+    "packageName": "com.lwt.phoneagent",
+    "main": "main.js",
+    "ignore": [
+        "build",
+        ".git",
+        "node_modules"
+    ],
+    "permissions": [
+        "accessibility",
+        "screenshot",
+        "internet",
+        "storage"
+    ],
+    "minSdkVersion": 21,
+    "targetSdkVersion": 33
+}
