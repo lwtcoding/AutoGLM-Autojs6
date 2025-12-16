@@ -25,6 +25,20 @@ AutoGLM-AutoJS6 是 Open-AutoGLM 的 AutoJS6 版本实现,使用 Android 无障�
 | 用户界面 | 命令行 | 图形界面 |
 | 便携性 | 需要 PC | 仅需手机 |
 
+## 系统截图
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="doc/images/app-home-1.jpg" width="300" /><br/>
+      <b>首页</b>
+    </td>
+    <td align="center">
+      <img src="doc/images/app-setting-1.jpg" width="300" /><br/>
+      <b>设置页</b>
+    </td>
+  </tr>
+</table>
+
 ## 系统要求
 
 - Android 5.0+ (API Level 21+)
