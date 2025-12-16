@@ -294,12 +294,12 @@ const TIMING_CONFIG = {
 
 - [Open-AutoGLM](https://github.com/THUDM/Open-AutoGLM) - 原始项目
 - [AutoJS6](https://github.com/SuperMonster003/AutoJs6) - AutoJS6 框架
-- [AutoGLM Team](https://github.com/THUDM) - AI 模型
+- [知谱模型](https://docs.bigmodel.cn/cn/api/introduction) - AI 模型
 
 ## 联系方式
 
-- Issue: [GitHub Issues](https://github.com/lwtcoding/AutoGLM-Autojs6.git/issues)
-- 讨论: [GitHub Discussions](https://github.com/lwtcoding/AutoGLM-Autojs6.git/discussions)
+- Issue: [GitHub Issues](https://github.com/lwtcoding/AutoGLM-Autojs6/issues)
+- 讨论: [GitHub Discussions](https://github.com/lwtcoding/AutoGLM-Autojs6/discussions)
 
 ---
 
